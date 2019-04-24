@@ -1,0 +1,23 @@
+
+
+.header {
+        padding: 28px;
+        text-align: center;
+        background-color: mediumpurple;
+        color: white;
+        font-size: 20px;
+      }
+
+.head-options {
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+    background-color: mediumpurple;}
+
+body {
+    background-image: url(https://66.media.tumblr.com/5f271af569c4ffae7fda1a5c5ec61076/tumblr_o0rxw4AfPA1v0gyw0o1_1280.jpg);
+    background-repeat: repeat-x;}
