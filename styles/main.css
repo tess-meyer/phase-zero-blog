@@ -24,6 +24,14 @@ body {
     background-repeat: repeat-x;
     font-family: 'Amatic SC', cursive;}
 
+.content {
+    text-align: center
+    font-size: 80px;
+    padding: 4px;
+    border-radius:4px;
+    color: white;
+}
+
 .text-box {
     text-align: center;
     margin:auto; 
@@ -39,11 +47,16 @@ body {
     padding: 5px;
   }
   
-  
   /*.row::after {
     content: "";
     clear: both;
     display: table;
   }*/
 
- 
+ #construction-dog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 50%;
+ }
