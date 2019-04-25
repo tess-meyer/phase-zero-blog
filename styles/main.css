@@ -67,7 +67,7 @@ body {
  /*this is where my tested css stops*/
  .box{
 	margin-top: 20px;
-	width:75%;
+	width:65%;
 	margin-left: auto ;
     margin-right: auto ;
     height: 1250px;
@@ -77,8 +77,8 @@ body {
 }
 
 .blog-post{
-    margin-top:20px;
-    text-align: center;
+    margin:38px;
+    text-align: left;
     font-family: 'Josefin Sans', sans-serif;
     padding: 20px;
 }
