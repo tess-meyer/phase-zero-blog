@@ -9,7 +9,7 @@
       }
 
 .head-options {
-    color:#939292;
+    color:purple;
     text-align: center;
     padding: 27px;
     text-decoration: none;
@@ -22,6 +22,7 @@ body {
    /* background-image: url(https://66.media.tumblr.com/5f271af569c4ffae7fda1a5c5ec61076/tumblr_o0rxw4AfPA1v0gyw0o1_1280.jpg);*/
     background-image: url(https://66.media.tumblr.com/1c244ec3acf4681fb876cde6e5cd405b/tumblr_muwf9vvgJ11s9oh9eo1_r1_1280.jpg);
     background-repeat: repeat-x;
+    background-attachment: fixed;
     font-family: 'Amatic SC', cursive;}
 
 .content {
@@ -30,6 +31,8 @@ body {
     padding: 4px;
     border-radius:4px;
     color: white;
+    font-family: 'Josefin Sans', sans-serif;
+
 }
 
 .text-box {
@@ -60,3 +63,31 @@ body {
     width: 40%;
     border-radius: 50%;
  }
+
+ /*this is where my tested css stops*/
+ .box{
+	margin-top: 20px;
+	width:75%;
+	margin-left: auto ;
+    margin-right: auto ;
+    height: 1000px;
+    background-color: #d3d3ffd0;
+    border-radius: 2%;
+    
+}
+
+.blog-post{
+    margin-top:20px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 20px;
+}
+.blog-heading{
+
+    margin-bottom:10px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.blog-image {
+    align-content: center;
+}
