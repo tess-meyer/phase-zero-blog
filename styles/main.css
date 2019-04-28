@@ -100,3 +100,10 @@ body {
 
 /* testing area begins */
 
+.blog-link {
+    text-align: center;
+    padding: 4px;
+    border-radius:4px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
